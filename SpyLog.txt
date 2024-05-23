@@ -1,0 +1,3671 @@
+Key.cmd -> Code 
+Key.tab -> Code 
+Key.tab -> Code 
+
+Key.cmd -> Arc 
+t -> Arc 
+j -> Arc 
+' -> Arc 
+e -> Arc 
+n -> Arc 
+v -> Arc 
+o -> Arc 
+i -> Arc 
+e -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+  -> Arc 
+l -> Arc 
+a -> Arc 
+  -> Arc 
+d -> Arc 
+o -> Arc 
+n -> Arc 
+n -> Arc 
+e -> Arc 
+r -> Arc 
+  -> Arc 
+à -> Arc 
+  -> Arc 
+m -> Arc 
+o -> Arc 
+n -> Arc 
+  -> Arc 
+s -> Arc 
+e -> Arc 
+r -> Arc 
+v -> Arc 
+e -> Arc 
+u -> Arc 
+r -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Code 
+f -> Code 
+e -> Code 
+n -> Code 
+d -> Code 
+  -> Code 
+o -> Code 
+f -> Code 
+  -> Code 
+s -> Code 
+e -> Code 
+n -> Code 
+d -> Code 
+i -> Code 
+n -> Code 
+g -> Code 
+  -> Code 
+! -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+
+
+i -> Arc 
+l -> Arc 
+  -> Arc 
+p -> Arc 
+l -> Arc 
+a -> Arc 
+n -> Arc 
+t -> Arc 
+e -> Arc 
+  -> Arc 
+s -> Arc 
+a -> Arc 
+n -> Arc 
+s -> Arc 
+  -> Arc 
+q -> Arc 
+  -> Arc 
+u -> Arc 
+e -> Arc 
+  -> Arc 
+j -> Arc 
+e -> Arc 
+  -> Arc 
+l -> Arc 
+u -> Arc 
+i -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+m -> Arc 
+a -> Arc 
+n -> Arc 
+d -> Arc 
+e -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Code 
+Key.tab -> Code 
+Key.tab -> Code 
+
+Key.cmd -> Discord 
+Key.tab -> Discord 
+Key.tab -> Discord 
+
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Discord 
+Key.tab -> Discord 
+Key.tab -> Discord 
+
+
+d -> Arc 
+a -> Arc 
+t -> Arc 
+a -> Arc 
+  -> Arc 
+m -> Arc 
+a -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+s -> Arc 
+o -> Arc 
+u -> Arc 
+v -> Arc 
+e -> Arc 
+n -> Arc 
+t -> Arc 
+  -> Arc 
+j -> Arc 
+' -> Arc 
+a -> Arc 
+i -> Arc 
+  -> Arc 
+u -> Arc 
+n -> Arc 
+  -> Arc 
+p -> Arc 
+r -> Arc 
+o -> Arc 
+b -> Arc 
+l -> Arc 
+è -> Arc 
+m -> Arc 
+e -> Arc 
+  -> Arc 
+a -> Arc 
+u -> Arc 
+  -> Arc 
+n -> Arc 
+i -> Arc 
+v -> Arc 
+e -> Arc 
+a -> Arc 
+u -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+  -> Arc 
+s -> Arc 
+e -> Arc 
+s -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+u -> Arc 
+x -> Arc 
+  -> Arc 
+f -> Arc 
+o -> Arc 
+n -> Arc 
+c -> Arc 
+t -> Arc 
+i -> Arc 
+o -> Arc 
+n -> Arc 
+  -> Arc 
+: -> Arc 
+  -> Arc 
+Key.enter -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Discord 
+Key.tab -> Discord 
+Key.tab -> Discord 
+
+Key.ctrl -> Code 
+c -> Code 
+Key.ctrl -> Code 
+c -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+Key.tab -> Code 
+Key.tab -> Code 
+
+Key.shift_r -> Arc 
+Key.enter -> Arc 
+Key.caps_lock -> Arc 
+J -> Arc 
+Key.caps_lock -> Arc 
+' -> Arc 
+a -> Arc 
+i -> Arc 
+  -> Arc 
+m -> Arc 
+e -> Arc 
+s -> Arc 
+  -> Arc 
+c -> Arc 
+r -> Arc 
+a -> Arc 
+m -> Arc 
+p -> Arc 
+t -> Arc 
+é -> Arc 
+s -> Arc 
+  -> Arc 
+e -> Arc 
+t -> Arc 
+  -> Arc 
+t -> Arc 
+o -> Arc 
+i -> Arc 
+  -> Arc 
+Key.shift -> Arc 
+? -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Code 
+Key.tab -> Code 
+
+
+Key.alt_r -> Arc 
+Key.left -> Arc 
+Key.left -> Arc 
+Key.left -> Arc 
+Key.left -> Arc 
+Key.left -> Arc 
+Key.left -> Arc 
+Key.right -> Arc 
+Key.right -> Arc 
+Key.right -> Arc 
+Key.right -> Arc 
+Key.alt_r -> Arc 
+Key.right -> Arc 
+  -> Arc 
+u -> Arc 
+n -> Arc 
+e -> Arc 
+  -> Arc 
+f -> Arc 
+o -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+s -> Arc 
+u -> Arc 
+r -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+u -> Arc 
+x -> Arc 
+  -> Arc 
+j -> Arc 
+' -> Arc 
+é -> Arc 
+c -> Arc 
+r -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+e -> Arc 
+t -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+s -> Arc 
+  -> Arc 
+f -> Arc 
+o -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+Key.shift_r -> Arc 
+. -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+Key.tab -> Arc 
+Key.tab -> Arc 
+
+e -> Finder 
+s -> Finder 
+Key.cmd -> Finder 
+o -> Finder 
+s -> Finder 
+p -> Finder 
+Key.cmd -> Finder 
+o -> Finder 
+Key.cmd -> Finder 
+Key.tab -> Finder 
+
+Key.esc -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Finder 
+Key.tab -> Finder 
+
+Key.cmd -> Arc 
+Key.tab -> Arc 
+Key.tab -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Discord 
+Key.tab -> Discord 
+Key.tab -> Discord 
+Key.cmd -> Discord 
+Key.tab -> Discord 
+
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Code 
+c -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+
+Key.cmd -> Arc 
+Key.cmd -> Arc 
+v -> Arc 
+Key.shift_r -> Arc 
+Key.enter -> Arc 
+j -> Arc 
+' -> Arc 
+a -> Arc 
+i -> Arc 
+  -> Arc 
+c -> Arc 
+e -> Arc 
+  -> Arc 
+c -> Arc 
+o -> Arc 
+d -> Arc 
+e -> Arc 
+  -> Arc 
+d -> Arc 
+' -> Arc 
+e -> Arc 
+r -> Arc 
+r -> Arc 
+e -> Arc 
+u -> Arc 
+r -> Arc 
+  -> Arc 
+q -> Arc 
+u -> Arc 
+i -> Arc 
+  -> Arc 
+m -> Arc 
+' -> Arc 
+e -> Arc 
+s -> Arc 
+t -> Arc 
+
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+
+Key.cmd -> Discord 
+Key.tab -> Discord 
+Key.shift -> Discord 
+Key.cmd -> Discord 
+Key.tab -> Discord 
+Key.tab -> Discord 
+
+Key.cmd -> Code 
+c -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+
+f -> Discord 
+a -> Discord 
+u -> Discord 
+t -> Discord 
+  -> Discord 
+r -> Discord 
+e -> Discord 
+v -> Discord 
+o -> Discord 
+i -> Discord 
+r -> Discord 
+e -> Discord 
+  -> Discord 
+s -> Discord 
+e -> Discord 
+s -> Discord 
+  -> Discord 
+d -> Discord 
+e -> Discord 
+u -> Discord 
+x -> Discord 
+  -> Discord 
+f -> Discord 
+o -> Discord 
+n -> Discord 
+c -> Discord 
+t -> Discord 
+i -> Discord 
+o -> Discord 
+n -> Discord 
+  -> Discord 
+f -> Discord 
+r -> Discord 
+e -> Discord 
+r -> Discord 
+o -> Discord 
+  -> Discord 
+e -> Discord 
+l -> Discord 
+l -> Discord 
+e -> Discord 
+  -> Discord 
+p -> Discord 
+o -> Discord 
+s -> Discord 
+e -> Discord 
+  -> Discord 
+p -> Discord 
+r -> Discord 
+o -> Discord 
+b -> Discord 
+l -> Discord 
+è -> Discord 
+m -> Discord 
+e -> Discord 
+  -> Discord 
+d -> Discord 
+a -> Discord 
+n -> Discord 
+s -> Discord 
+  -> Discord 
+l -> Discord 
+a -> Discord 
+  -> Discord 
+r -> Discord 
+e -> Discord 
+c -> Discord 
+' -> Discord 
+e -> Discord 
+n -> Discord 
+v -> Discord 
+o -> Discord 
+i -> Discord 
+e -> Discord 
+  -> Discord 
+d -> Discord 
+e -> Discord 
+s -> Discord 
+  -> Discord 
+d -> Discord 
+o -> Discord 
+n -> Discord 
+n -> Discord 
+é -> Discord 
+e -> Discord 
+s -> Discord 
+  -> Discord 
+c -> Discord 
+o -> Discord 
+t -> Discord 
+é -> Discord 
+  -> Discord 
+s -> Discord 
+e -> Discord 
+r -> Discord 
+v -> Discord 
+e -> Discord 
+r -> Discord 
+  -> Discord 
+ç -> Discord 
+a -> Discord 
+  -> Discord 
+m -> Discord 
+a -> Discord 
+r -> Discord 
+c -> Discord 
+h -> Discord 
+e -> Discord 
+  -> Discord 
+à -> Discord 
+  -> Discord 
+Key.shift -> Discord 
+1 -> Discord 
+0 -> Discord 
+0 -> Discord 
+Key.shift_r -> Discord 
+% -> Discord 
+  -> Discord 
+Key.shift_r -> Discord 
+Key.enter -> Discord 
+None -> Discord 
+None -> Discord 
+None -> Discord 
+p -> Discord 
+y -> Discord 
+Key.shift_r -> Discord 
+Key.enter -> Discord 
+Key.cmd -> Discord 
+v -> Discord 
+Key.shift_r -> Discord 
+Key.enter -> Discord 
+None -> Discord 
+None -> Discord 
+Key.enter -> Discord 
+s -> Discord 
+Key.esc -> Discord 
+Key.enter -> Discord 
+Key.cmd -> Discord 
+Key.tab -> Discord 
+
+Key.shift -> Code 
+Key.cmd -> Code 
+4 -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+
+Key.enter -> Discord 
+i -> Discord 
+l -> Discord 
+  -> Discord 
+f -> Discord 
+a -> Discord 
+u -> Discord 
+d -> Discord 
+r -> Discord 
+a -> Discord 
+i -> Discord 
+t -> Discord 
+  -> Discord 
+p -> Discord 
+a -> Discord 
+s -> Discord 
+  -> Discord 
+j -> Discord 
+o -> Discord 
+u -> Discord 
+é -> Discord 
+  -> Discord 
+s -> Discord 
+u -> Discord 
+r -> Discord 
+  -> Discord 
+u -> Discord 
+n -> Discord 
+  -> Discord 
+t -> Discord 
+i -> Discord 
+m -> Discord 
+e -> Discord 
+Key.shift_r -> Discord 
+. -> Discord 
+s -> Discord 
+l -> Discord 
+e -> Discord 
+e -> Discord 
+p -> Discord 
+Key.enter -> Discord 
+m -> Discord 
+a -> Discord 
+i -> Discord 
+s -> Discord 
+  -> Discord 
+f -> Discord 
+a -> Discord 
+i -> Discord 
+r -> Discord 
+e -> Discord 
+  -> Discord 
+e -> Discord 
+n -> Discord 
+  -> Discord 
+s -> Discord 
+o -> Discord 
+r -> Discord 
+t -> Discord 
+e -> Discord 
+  -> Discord 
+q -> Discord 
+u -> Discord 
+e -> Discord 
+  -> Discord 
+d -> Discord 
+è -> Discord 
+s -> Discord 
+  -> Discord 
+q -> Discord 
+u -> Discord 
+e -> Discord 
+  -> Discord 
+l -> Discord 
+' -> Discord 
+u -> Discord 
+t -> Discord 
+i -> Discord 
+l -> Discord 
+i -> Discord 
+s -> Discord 
+a -> Discord 
+t -> Discord 
+e -> Discord 
+u -> Discord 
+r -> Discord 
+  -> Discord 
+a -> Discord 
+r -> Discord 
+r -> Discord 
+None -> Discord 
+e -> Discord 
+t -> Discord 
+e -> Discord 
+  -> Discord 
+d -> Discord 
+' -> Discord 
+e -> Discord 
+c -> Discord 
+r -> Discord 
+i -> Discord 
+r -> Discord 
+e -> Discord 
+  -> Discord 
+ç -> Discord 
+a -> Discord 
+  -> Discord 
+e -> Discord 
+n -> Discord 
+v -> Discord 
+o -> Discord 
+i -> Discord 
+e -> Discord 
+  -> Discord 
+d -> Discord 
+i -> Discord 
+r -> Discord 
+e -> Discord 
+c -> Discord 
+t -> Discord 
+e -> Discord 
+  -> Discord 
+m -> Discord 
+None -> Discord 
+e -> Discord 
+m -> Discord 
+e -> Discord 
+  -> Discord 
+s -> Discord 
+i -> Discord 
+  -> Discord 
+o -> Discord 
+n -> Discord 
+  -> Discord 
+p -> Discord 
+e -> Discord 
+r -> Discord 
+d -> Discord 
+  -> Discord 
+g -> Discord 
+e -> Discord 
+n -> Discord 
+r -> Discord 
+e -> Discord 
+  -> Discord 
+l -> Discord 
+a -> Discord 
+  -> Discord 
+s -> Discord 
+u -> Discord 
+i -> Discord 
+t -> Discord 
+e -> Discord 
+  -> Discord 
+d -> Discord 
+' -> Discord 
+u -> Discord 
+n -> Discord 
+  -> Discord 
+m -> Discord 
+o -> Discord 
+t -> Discord 
+  -> Discord 
+i -> Discord 
+l -> Discord 
+  -> Discord 
+s -> Discord 
+e -> Discord 
+r -> Discord 
+a -> Discord 
+  -> Discord 
+e -> Discord 
+c -> Discord 
+r -> Discord 
+i -> Discord 
+s -> Discord 
+  -> Discord 
+p -> Discord 
+a -> Discord 
+r -> Discord 
+  -> Discord 
+l -> Discord 
+a -> Discord 
+  -> Discord 
+s -> Discord 
+u -> Discord 
+i -> Discord 
+t -> Discord 
+e -> Discord 
+  -> Discord 
+d -> Discord 
+a -> Discord 
+n -> Discord 
+s -> Discord 
+  -> Discord 
+u -> Discord 
+n -> Discord 
+  -> Discord 
+a -> Discord 
+u -> Discord 
+t -> Discord 
+r -> Discord 
+e -> Discord 
+  -> Discord 
+f -> Discord 
+i -> Discord 
+c -> Discord 
+h -> Discord 
+i -> Discord 
+e -> Discord 
+r -> Discord 
+  -> Discord 
+t -> Discord 
+' -> Discord 
+a -> Discord 
+s -> Discord 
+  -> Discord 
+c -> Discord 
+a -> Discord 
+p -> Discord 
+t -> Discord 
+é -> Discord 
+  -> Discord 
+Key.shift -> Discord 
+? -> Discord 
+Key.enter -> Discord 
+p -> Discord 
+o -> Discord 
+u -> Discord 
+r -> Discord 
+  -> Discord 
+l -> Discord 
+e -> Discord 
+  -> Discord 
+m -> Discord 
+o -> Discord 
+m -> Discord 
+e -> Discord 
+n -> Discord 
+t -> Discord 
+  -> Discord 
+d -> Discord 
+u -> Discord 
+c -> Discord 
+o -> Discord 
+u -> Discord 
+p -> Discord 
+  -> Discord 
+j -> Discord 
+' -> Discord 
+a -> Discord 
+r -> Discord 
+r -> Discord 
+i -> Discord 
+v -> Discord 
+e -> Discord 
+  -> Discord 
+à -> Discord 
+  -> Discord 
+e -> Discord 
+c -> Discord 
+r -> Discord 
+i -> Discord 
+r -> Discord 
+e -> Discord 
+  -> Discord 
+Key.shift -> Discord 
+1 -> Discord 
+Key.shift_r -> Discord 
+/ -> Discord 
+Key.shift -> Discord 
+2 -> Discord 
+  -> Discord 
+d -> Discord 
+a -> Discord 
+n -> Discord 
+s -> Discord 
+  -> Discord 
+u -> Discord 
+n -> Discord 
+  -> Discord 
+f -> Discord 
+i -> Discord 
+c -> Discord 
+h -> Discord 
+i -> Discord 
+e -> Discord 
+r -> Discord 
+  -> Discord 
+p -> Discord 
+c -> Discord 
+k -> Discord 
+  -> Discord 
+j -> Discord 
+u -> Discord 
+s -> Discord 
+t -> Discord 
+e -> Discord 
+m -> Discord 
+e -> Discord 
+n -> Discord 
+t -> Discord 
+  -> Discord 
+s -> Discord 
+e -> Discord 
+s -> Discord 
+  -> Discord 
+Key.shift -> Discord 
+2 -> Discord 
+  -> Discord 
+f -> Discord 
+o -> Discord 
+n -> Discord 
+c -> Discord 
+t -> Discord 
+i -> Discord 
+o -> Discord 
+n -> Discord 
+s -> Discord 
+  -> Discord 
+l -> Discord 
+à -> Discord 
+  -> Discord 
+p -> Discord 
+o -> Discord 
+s -> Discord 
+e -> Discord 
+  -> Discord 
+p -> Discord 
+r -> Discord 
+o -> Discord 
+b -> Discord 
+l -> Discord 
+è -> Discord 
+m -> Discord 
+s -> Discord 
+Key.enter -> Discord 
+e -> Discord 
+Key.enter -> Discord 
+Key.cmd -> Discord 
+Key.tab -> Discord 
+
+Key.cmd -> Code 
+Key.tab -> Code 
+Key.tab -> Code 
+
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Code 
+Key.tab -> Code 
+
+e -> Arc 
+s -> Arc 
+Key.right -> Arc 
+p -> Arc 
+s -> Arc 
+s -> Arc 
+p -> Arc 
+Key.right -> Arc 
+Key.down -> Arc 
+Key.down -> Arc 
+Key.down -> Arc 
+Key.down -> Arc 
+Key.up -> Arc 
+Key.cmd -> Arc 
+Key.enter -> Arc 
+Key.caps_lock -> Arc 
+U -> Arc 
+Key.caps_lock -> Arc 
+n -> Arc 
+e -> Arc 
+  -> Arc 
+f -> Arc 
+o -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+s -> Arc 
+u -> Arc 
+r -> Arc 
+  -> Arc 
+j -> Arc 
+' -> Arc 
+a -> Arc 
+i -> Arc 
+  -> Arc 
+u -> Arc 
+n -> Arc 
+  -> Arc 
+p -> Arc 
+r -> Arc 
+o -> Arc 
+b -> Arc 
+l -> Arc 
+è -> Arc 
+m -> Arc 
+e -> Arc 
+  -> Arc 
+a -> Arc 
+v -> Arc 
+e -> Arc 
+c -> Arc 
+  -> Arc 
+l -> Arc 
+' -> Arc 
+e -> Arc 
+n -> Arc 
+v -> Arc 
+o -> Arc 
+i -> Arc 
+e -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+  -> Arc 
+m -> Arc 
+e -> Arc 
+s -> Arc 
+  -> Arc 
+d -> Arc 
+o -> Arc 
+n -> Arc 
+n -> Arc 
+é -> Arc 
+e -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Code 
+c -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+
+  -> Arc 
+d -> Arc 
+a -> Arc 
+n -> Arc 
+s -> Arc 
+  -> Arc 
+l -> Arc 
+e -> Arc 
+s -> Arc 
+  -> Arc 
+s -> Arc 
+c -> Arc 
+r -> Arc 
+i -> Arc 
+p -> Arc 
+t -> Arc 
+s -> Arc 
+  -> Arc 
+s -> Arc 
+u -> Arc 
+i -> Arc 
+v -> Arc 
+a -> Arc 
+n -> Arc 
+t -> Arc 
+  -> Arc 
+: -> Arc 
+  -> Arc 
+Key.shift_r -> Arc 
+Key.enter -> Arc 
+Key.cmd -> Arc 
+v -> Arc 
+Key.shift_r -> Arc 
+. -> Arc 
+  -> Arc 
+Key.caps_lock -> Arc 
+S -> Arc 
+Key.caps_lock -> Arc 
+e -> Arc 
+s -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+u -> Arc 
+x -> Arc 
+  -> Arc 
+f -> Arc 
+o -> Arc 
+n -> Arc 
+c -> Arc 
+t -> Arc 
+i -> Arc 
+o -> Arc 
+n -> Arc 
+s -> Arc 
+  -> Arc 
+m -> Arc 
+e -> Arc 
+  -> Arc 
+p -> Arc 
+o -> Arc 
+s -> Arc 
+e -> Arc 
+  -> Arc 
+p -> Arc 
+r -> Arc 
+o -> Arc 
+b -> Arc 
+l -> Arc 
+è -> Arc 
+m -> Arc 
+e -> Arc 
+s -> Arc 
+  -> Arc 
+c -> Arc 
+a -> Arc 
+a -> Arc 
+r -> Arc 
+  -> Arc 
+c -> Arc 
+o -> Arc 
+t -> Arc 
+é -> Arc 
+  -> Arc 
+s -> Arc 
+e -> Arc 
+r -> Arc 
+v -> Arc 
+e -> Arc 
+r -> Arc 
+  -> Arc 
+d -> Arc 
+u -> Arc 
+c -> Arc 
+o -> Arc 
+u -> Arc 
+p -> Arc 
+  -> Arc 
+j -> Arc 
+e -> Arc 
+  -> Arc 
+p -> Arc 
+e -> Arc 
+u -> Arc 
+x -> Arc 
+  -> Arc 
+r -> Arc 
+e -> Arc 
+c -> Arc 
+u -> Arc 
+p -> Arc 
+e -> Arc 
+r -> Arc 
+e -> Arc 
+r -> Arc 
+  -> Arc 
+q -> Arc 
+u -> Arc 
+e -> Arc 
+Key.shift_r -> Arc 
+. -> Arc 
+  -> Arc 
+j -> Arc 
+e -> Arc 
+  -> Arc 
+n -> Arc 
+e -> Arc 
+  -> Arc 
+s -> Arc 
+a -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+p -> Arc 
+a -> Arc 
+s -> Arc 
+  -> Arc 
+v -> Arc 
+r -> Arc 
+a -> Arc 
+i -> Arc 
+m -> Arc 
+e -> Arc 
+n -> Arc 
+t -> Arc 
+  -> Arc 
+p -> Arc 
+o -> Arc 
+u -> Arc 
+r -> Arc 
+q -> Arc 
+u -> Arc 
+o -> Arc 
+i -> Arc 
+  -> Arc 
+Key.cmd -> Arc 
+c -> Arc 
+m -> Arc 
+a -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+u -> Arc 
+n -> Arc 
+e -> Arc 
+  -> Arc 
+f -> Arc 
+o -> Arc 
+i -> Arc 
+s -> Arc 
+  -> Arc 
+s -> Arc 
+u -> Arc 
+r -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+u -> Arc 
+x -> Arc 
+  -> Arc 
+j -> Arc 
+e -> Arc 
+  -> Arc 
+t -> Arc 
+o -> Arc 
+m -> Arc 
+b -> Arc 
+e -> Arc 
+  -> Arc 
+s -> Arc 
+u -> Arc 
+r -> Arc 
+  -> Arc 
+c -> Arc 
+e -> Arc 
+t -> Arc 
+t -> Arc 
+e -> Arc 
+  -> Arc 
+e -> Arc 
+r -> Arc 
+r -> Arc 
+e -> Arc 
+u -> Arc 
+r -> Arc 
+  -> Arc 
+Key.cmd -> Arc 
+v -> Arc 
+  -> Arc 
+q -> Arc 
+u -> Arc 
+i -> Arc 
+  -> Arc 
+m -> Arc 
+e -> Arc 
+  -> Arc 
+s -> Arc 
+o -> Arc 
+r -> Arc 
+t -> Arc 
+  -> Arc 
+i -> Arc 
+n -> Arc 
+v -> Arc 
+a -> Arc 
+l -> Arc 
+i -> Arc 
+d -> Arc 
+e -> Arc 
+  -> Arc 
+a -> Arc 
+r -> Arc 
+g -> Arc 
+u -> Arc 
+m -> Arc 
+e -> Arc 
+n -> Arc 
+t -> Arc 
+Key.shift_r -> Arc 
+. -> Arc 
+Key.enter -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+Key.cmd -> Arc 
+r -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Discord 
+Key.tab -> Discord 
+
+Key.cmd -> Arc 
+Key.tab -> Arc 
+Key.tab -> Arc 
+
+Key.cmd -> Terminal 
+Key.tab -> Terminal 
+
+Key.ctrl -> Code 
+c -> Code 
+c -> Code 
+Key.ctrl -> Code 
+c -> Code 
+c -> Code 
+
+Key.caps_lock -> Discord 
+S -> Discord 
+Key.caps_lock -> Discord 
+i -> Discord 
+  -> Discord 
+j -> Discord 
+e -> Discord 
+  -> Discord 
+c -> Discord 
+o -> Discord 
+m -> Discord 
+m -> Discord 
+e -> Discord 
+n -> Discord 
+c -> Discord 
+e -> Discord 
+  -> Discord 
+à -> Discord 
+  -> Discord 
+e -> Discord 
+c -> Discord 
+r -> Discord 
+i -> Discord 
+r -> Discord 
+e -> Discord 
+  -> Discord 
+à -> Discord 
+  -> Discord 
+z -> Discord 
+a -> Discord 
+c -> Discord 
+a -> Discord 
+h -> Discord 
+a -> Discord 
+- -> Discord 
+r -> Discord 
+o -> Discord 
+h -> Discord 
+z -> Discord 
+r -> Discord 
+f -> Discord 
+u -> Discord 
+h -> Discord 
+z -> Discord 
+r -> Discord 
+e -> Discord 
+f -> Discord 
+
+Key.cmd_r -> Code 
+
+
+j -> Discord 
+' -> Discord 
+v -> Discord 
+a -> Discord 
+i -> Discord 
+s -> Discord 
+  -> Discord 
+l -> Discord 
+e -> Discord 
+  -> Discord 
+c -> Discord 
+h -> Discord 
+e -> Discord 
+b -> Discord 
+Key.enter -> Discord 
+l -> Discord 
+e -> Discord 
+  -> Discord 
+m -> Discord 
+e -> Discord 
+c -> Discord 
+  -> Discord 
+t -> Discord 
+q -> Discord 
+t -> Discord 
+Key.enter -> Discord 
+c -> Discord 
+' -> Discord 
+e -> Discord 
+s -> Discord 
+t -> Discord 
+  -> Discord 
+g -> Discord 
+r -> Discord 
+a -> Discord 
+v -> Discord 
+e -> Discord 
+  -> Discord 
+u -> Discord 
+n -> Discord 
+  -> Discord 
+b -> Discord 
+o -> Discord 
+n -> Discord 
+Key.enter -> Discord 
+
+Key.ctrl -> Code 
+c -> Code 
+
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+T -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.shift -> Window Server StatusIndicator
+G -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+J -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+é -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.left -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+x -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+: -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.shift -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+x -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+K -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+: -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+: -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+( -> Window Server StatusIndicator
+" -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+C -> Window Server StatusIndicator
+T -> Window Server StatusIndicator
+R -> Window Server StatusIndicator
+L -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
++ -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+C -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+é -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+é -> Window Server StatusIndicator
+, -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+q -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+é -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+x -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+ç -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+è -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+ç -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+x -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+. -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+8 -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+0 -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+q -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+è -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+J -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+Y -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+S -> Window Server StatusIndicator
+U -> Window Server StatusIndicator
+I -> Window Server StatusIndicator
+S -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+P -> Window Server StatusIndicator
+R -> Window Server StatusIndicator
+E -> Window Server StatusIndicator
+S -> Window Server StatusIndicator
+Q -> Window Server StatusIndicator
+U -> Window Server StatusIndicator
+E -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+K -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+S -> Window Server StatusIndicator
+F -> Window Server StatusIndicator
+K -> Window Server StatusIndicator
+E -> Window Server StatusIndicator
+Z -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+F -> Window Server StatusIndicator
+Z -> Window Server StatusIndicator
+R -> Window Server StatusIndicator
+F -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+A -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+A -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+A -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+A -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+A -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+H -> Window Server StatusIndicator
+A -> Window Server StatusIndicator
+I -> Window Server StatusIndicator
+N -> Window Server StatusIndicator
+E -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+, -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+w -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+
+Key.cmd -> Code 
+Key.tab -> Code 
+
+Key.caps_lock -> Discord 
+T -> Discord 
+E -> Discord 
+Z -> Discord 
+L -> Discord 
+J -> Discord 
+F -> Discord 
+H -> Discord 
+E -> Discord 
+S -> Discord 
+D -> Discord 
+R -> Discord 
+H -> Discord 
+J -> Discord 
+F -> Discord 
+S -> Discord 
+R -> Discord 
+D -> Discord 
+E -> Discord 
+F -> Discord 
+Key.enter -> Discord 
+T -> Discord 
+E -> Discord 
+S -> Discord 
+T -> Discord 
+Key.enter -> Discord 
+O -> Discord 
+I -> Discord 
+S -> Discord 
+J -> Discord 
+F -> Discord 
+E -> Discord 
+Key.enter -> Discord 
+Key.cmd -> Discord 
+Key.tab -> Discord 
+
+Key.caps_lock -> Code 
+Key.cmd -> Code 
+Key.cmd -> Code 
+Key.cmd -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+Key.cmd -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+Key.shift -> Code 
+Key.cmd -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Z -> Code 
+Key.cmd -> Code 
+z -> Code 
+Key.cmd -> Code 
+z -> Code 
+z -> Code 
+Key.cmd -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+Key.cmd -> Code 
+z -> Code 
+Key.cmd -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+z -> Code 
+Key.shift -> Code 
+Key.tab -> Code 
+Key.up -> Code 
+Key.shift -> Code 
+Key.tab -> Code 
+Key.up -> Code 
+Key.shift -> Code 
+Key.tab -> Code 
+Key.up -> Code 
+Key.shift -> Code 
+Key.tab -> Code 
+Key.up -> Code 
+Key.shift -> Code 
+Key.tab -> Code 
+Key.up -> Code 
+Key.shift -> Code 
+Key.tab -> Code 
+Key.up -> Code 
+Key.shift -> Code 
+Key.tab -> Code 
+Key.up -> Code 
+Key.cmd_r -> Code 
+Key.cmd -> Code 
+Key.cmd -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+Key.cmd -> Code 
+Key.enter -> Code 
+Key.cmd -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+Key.cmd -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+Key.enter -> Code 
+s -> Code 
+Key.enter -> Code 
+Key.tab -> Code 
+Key.cmd -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+s -> Code 
+Key.ctrl -> Code 
+c -> Code 
+Key.ctrl -> Code 
+c -> Code 
+c -> Code 
+l -> Code 
+e -> Code 
+a -> Code 
+r -> Code 
+Key.enter -> Code 
+c -> Code 
+Key.ctrl -> Code 
+c -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+
+s -> Arc 
+f -> Arc 
+g -> Arc 
+z -> Arc 
+r -> Arc 
+d -> Arc 
+f -> Arc 
+g -> Arc 
+z -> Arc 
+e -> Arc 
+r -> Arc 
+f -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.ctrl -> Code 
+c -> Code 
+c -> Code 
+Key.cmd -> Code 
+Key.tab -> Code 
+
+i -> Arc 
+u -> Arc 
+z -> Arc 
+g -> Arc 
+h -> Arc 
+e -> Arc 
+f -> Arc 
+  -> Arc 
+e -> Arc 
+z -> Arc 
+d -> Arc 
+f -> Arc 
+  -> Arc 
+t -> Arc 
+e -> Arc 
+s -> Arc 
+t -> Arc 
+  -> Arc 
+f -> Arc 
+i -> Arc 
+l -> Arc 
+s -> Arc 
+  -> Arc 
+d -> Arc 
+e -> Arc 
+  -> Arc 
+p -> Arc 
+u -> Arc 
+t -> Arc 
+e -> Arc 
+Key.cmd -> Arc 
+Key.tab -> Arc 
+
+Key.ctrl -> Code 
+c -> Code 
+Key.ctrl -> Code 
+c -> Code 
+
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+Key.shift -> Window Server StatusIndicator
+0 -> Window Server StatusIndicator
+. -> Window Server StatusIndicator
+0 -> Window Server StatusIndicator
+. -> Window Server StatusIndicator
+0 -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+g -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+é -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.alt -> Window Server StatusIndicator
+Key.alt -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+Key.alt -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.alt -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+Key.alt -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+© -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+Key.left -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+/ -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.shift -> Window Server StatusIndicator
+3 -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.shift -> Window Server StatusIndicator
+9 -> Window Server StatusIndicator
+9 -> Window Server StatusIndicator
+9 -> Window Server StatusIndicator
+8 -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.alt_r -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+z -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+$ -> Window Server StatusIndicator
+$ -> Window Server StatusIndicator
+None -> Window Server StatusIndicator
+None -> Window Server StatusIndicator
+None -> Window Server StatusIndicator
+None -> Window Server StatusIndicator
+ù -> Window Server StatusIndicator
+ù -> Window Server StatusIndicator
+None -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+Key.left -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+Key.left -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+ç -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+à -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+è -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+q -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+é -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+q -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+m -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+w -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+: -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+= -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+N -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+p -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+w -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+h -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+N -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+: -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.down -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.left -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.shift -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+N -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+N -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+: -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd_r -> Window Server StatusIndicator
+Key.right -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+. -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+( -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+k -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+x -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.shift -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.alt -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+y -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+' -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+b -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+a -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+j -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+o -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+u -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+l -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+t -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+v -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+F -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+i -> Window Server StatusIndicator
+n -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+d -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+r -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+e -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.tab -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+C -> Window Server StatusIndicator
+Y -> Window Server StatusIndicator
+A -> Window Server StatusIndicator
+N -> Window Server StatusIndicator
+Key.caps_lock -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.shift_r -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
+Key.up -> Window Server StatusIndicator
+  -> Window Server StatusIndicator
+- -> Window Server StatusIndicator
+s -> Window Server StatusIndicator
+Key.enter -> Window Server StatusIndicator
+Key.cmd -> Window Server StatusIndicator
+f -> Window Server StatusIndicator
+Key.ctrl -> Window Server StatusIndicator
+c -> Window Server StatusIndicator
